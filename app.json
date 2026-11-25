@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Imperium Training",
+    "slug": "imperium-training",
+    "scheme": "imperium-training",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.artur.imperiumtraining",
+      "infoPlist": { "ITSAppUsesNonExemptEncryption": false }
+    },
+    "android": {
+      "package": "com.artur.imperiumtraining",
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "name": "Imperium Training",
+      "backgroundColor": "#070B08",
+      "themeColor": "#070B08"
+    },
+    "plugins": ["expo-font", "expo-router"]
+  }
+}

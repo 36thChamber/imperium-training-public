@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+<defs><radialGradient id="bg"><stop stop-color="#2A3033"/><stop offset="1" stop-color="#0C0F12"/></radialGradient><linearGradient id="gold" x2="1" y2="1"><stop stop-color="#F1DFB1"/><stop offset=".5" stop-color="#C6AA70"/><stop offset="1" stop-color="#7C673F"/></linearGradient></defs>
+<path fill="url(#bg)" d="M0 0h1024v1024H0z"/>
+<path d="m512 116 290 150v340L512 903 222 606V266Z" fill="none" stroke="#C6AA70" stroke-width="6" opacity=".5"/>
+<path d="m512 147 263 136v312L512 864 249 595V283Z" fill="none" stroke="#C6AA70" stroke-width="2" opacity=".25"/>
+<g transform="translate(162 254) scale(7)" fill="url(#gold)">
+<path d="M45 27 34 24 4 9 9 23 34 33 13 29 18 39 36 40 23 43 31 50 43 44ZM55 27 66 24 96 9 91 23 66 33 87 29 82 39 64 40 77 43 69 50 57 44Z"/>
+<path d="m50 1 4 12 10 3-10 3-4 9-4-9-10-3 10-3ZM39 34Q39 23 50 23T61 34L58 42 56 44 56 51 44 51 44 44 42 42Zm11 20 5 3-5 7-5-7Z"/>
+<path d="m42 33 6 2-1 5-5-2Zm16 0-6 2 1 5 5-2ZM50 38l-2 5h4Z" fill="#111315"/>
+<path d="M47 47v4m6-4v4" stroke="#111315" stroke-width="1.5"/>
+</g></svg>
